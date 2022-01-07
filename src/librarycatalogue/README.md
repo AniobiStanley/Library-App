@@ -1,4 +1,7 @@
-#Description:
+#Library-App
+A books/Catalogue, activities and users management app for a school library.
+
+##Description:
 
 This project is part of a larger project I am working on.
 
